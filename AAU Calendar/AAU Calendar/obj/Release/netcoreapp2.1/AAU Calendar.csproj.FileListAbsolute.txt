@@ -1,0 +1,12 @@
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\bin\Release\netcoreapp2.1\credentials.json
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\bin\Release\netcoreapp2.1\AAU Calendar.deps.json
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\bin\Release\netcoreapp2.1\AAU Calendar.runtimeconfig.json
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\bin\Release\netcoreapp2.1\AAU Calendar.runtimeconfig.dev.json
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\bin\Release\netcoreapp2.1\AAU Calendar.dll
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\bin\Release\netcoreapp2.1\AAU Calendar.pdb
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\obj\Release\netcoreapp2.1\AAU Calendar.csprojAssemblyReference.cache
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\obj\Release\netcoreapp2.1\AAU Calendar.csproj.CoreCompileInputs.cache
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\obj\Release\netcoreapp2.1\AAU Calendar.AssemblyInfoInputs.cache
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\obj\Release\netcoreapp2.1\AAU Calendar.AssemblyInfo.cs
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\obj\Release\netcoreapp2.1\AAU Calendar.dll
+C:\Users\theod\OneDrive\Projects\C#\AAU Calendar\AAU Calendar\obj\Release\netcoreapp2.1\AAU Calendar.pdb
